@@ -1,7 +1,9 @@
 ## Cancer_Cells_Counting
 
-<img src="illustration.png" alt="Cover" width="50%"/> 
 
+<div align = center>
+<img src="illustration.png" alt="Cover" width="50%"/> 
+</div>
 
 
 ### Quick start
