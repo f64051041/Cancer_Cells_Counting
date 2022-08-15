@@ -1,6 +1,6 @@
 ## Cancer_Cells_Counting
 <div align = center>
-[Input]<img src="illustration.png" alt="Cover" width="50%"/> 
+<img src="illustration.png" alt="Cover" width="50%"/> 
 </div>
 
 
